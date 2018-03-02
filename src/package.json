@@ -2,9 +2,9 @@
   "name": "ui-toolkit-trello-example",
   "description": "Basic example of a Trello plugin for Cloud UX",
   "main": "index.js",
-  "hostIp": "https://localhost",
-  "hostPort": "",
-  "osgiIp": "https://localhost",
+  "hostIp": "https://avidmcp07.eastus.cloudapp.azure.com",
+  "hostPort": "8443",
+  "osgiIp": "https://avidmcp07.eastus.cloudapp.azure.com",
   "osgiPort": "8480",
   "avid": {
     "format": "amd",
